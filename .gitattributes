@@ -1,0 +1,7 @@
+# 标记数据文件为 vendored，GitHub 不统计语言占比
+data.js linguist-vendored
+data.txt linguist-vendored
+data_all.txt linguist-vendored
+stations.js linguist-vendored
+stations_all.js linguist-vendored
+all_stations.txt linguist-vendored

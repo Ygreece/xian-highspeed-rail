@@ -1,0 +1,17 @@
+# 编译文件
+*.o
+*.exe
+railway
+
+# 数据文件
+stations_raw.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
